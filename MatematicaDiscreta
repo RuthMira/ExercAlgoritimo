@@ -1,4 +1,4 @@
-[29/9 17:28] Ruth Mira: ## Em um parque de diversões , os ingressos são cobrados de acordo com a idade do cliente, o programa pede o nome e a idade e retorna o valor do ingresso.
+## Em um parque de diversões , os ingressos são cobrados de acordo com a idade do cliente, o programa pede o nome e a idade e retorna o valor do ingresso.
 
 idade = int(input("\nEntre com a idade:")) 
  nome = str(input("\nEntre com o nome: ")) 
